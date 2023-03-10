@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dum3ng
 - 👀 I’m interested in many things.
-- 🌱 I’m currently learning Modelica and Matlab/Simulink.
+- 🌱 Currently diving in SysMLv2.
 
 
 <!---
